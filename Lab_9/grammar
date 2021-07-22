@@ -1,0 +1,5 @@
+E → TS
+S → +TS|-TS|ε
+T → FH
+H → *FH|/FH|ε
+F → (E) |id  |num
